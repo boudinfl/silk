@@ -1,0 +1,11 @@
+
+token.txt
+**.DS_Store
+/.ipynb_checkpoints
+/.virtual_documents
+/baselines/.ipynb_checkpoints
+/baselines/__pycache__
+/data/astro/outputs
+/data
+/models
+Untitled.ipynb
